@@ -1,0 +1,4 @@
+PyMuPDF==1.23.26
+jsonschema==4.19.2
+langdetect==1.0.9
+argostranslate==1.8.0
